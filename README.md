@@ -1,0 +1,1 @@
+Ukranian Active Record i18n ua.yml file for rails app
